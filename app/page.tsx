@@ -55,7 +55,7 @@ export default function Home() {
                 <div>
                   <h1 className="h1">Ahmed M. Othman</h1>
                   <p className="sub">
-                    Petroleum Engineering Student | Reservoir & Well Planning | SPE Vice President
+                    Petroleum Engineering Student | Reservoir & Well Planning | SPE CU Vice President
                   </p>
 
                   <div className="row" style={{ marginTop: 10 }}>
